@@ -1,6 +1,7 @@
 # customize-needs
 擁抱react community開發者提供的component，提升開發速度
-同時也能夠高度客製！
+
+同時能夠根據ＰＭ提出的需求高度客製！
 
 from this:
 
